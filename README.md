@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Your local content
+=======
+GitHub content
+>>>>>>> origin/main
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -68,3 +73,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# restaurant-site
+Restaurant Website – A responsive website for browsing restaurant menus, exploring food items, and viewing restaurant information.
+>>>>>>> 9192b9df6c01be0cdb0658c19efba5404ad1b0d1
